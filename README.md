@@ -128,13 +128,3 @@ docker-assignment/
    git branch -M main
    git push -u origin main
    ```
-
----
-
-## 7. Предаване на Заданието
-
-При предаване предоставете следните връзки:
-- **Линк към GitHub хранилището**: `https://github.com/<потребител>/<хранилище>`
-- **Линкове към Docker Hub хранилищата**:
-  - Frontend: `https://hub.docker.com/r/<потребител>/taskflow-frontend`
-  - Backend: `https://hub.docker.com/r/<потребител>/taskflow-backend`
