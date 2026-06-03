@@ -106,25 +106,3 @@ docker-assignment/
    Сменете имената на образите под ключовете `image:` за `frontend` и `backend` съответно във вашия `compose.yml` файл.
 
 ---
-
-## 6. Качване на Проекта в GitHub
-
-1. Инициализирайте локално Git хранилище:
-   ```bash
-   git init
-   ```
-2. Добавете файловете:
-   ```bash
-   git add .
-   ```
-3. Направете commit:
-   ```bash
-   git commit -m "Initial commit - Split Frontend & Backend TaskFlow with Docker Compose"
-   ```
-4. Създайте нов **публичен** проект в GitHub.
-5. Свържете локалното хранилище и качете кода:
-   ```bash
-   git remote add origin https://github.com/<твоят_github_потребител>/<име_на_хранилище>.git
-   git branch -M main
-   git push -u origin main
-   ```
